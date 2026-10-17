@@ -63,6 +63,19 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     30 nov. Côme (3) → 3 déc. Milan (2) → 5 déc. vol direct vers Gran Canaria
     (4) → 9 déc. Binter vers Nouakchott. Budget estimé : 4 000 à 6 000 € pour
     deux.
+  - **Mise à jour 3 :** l'utilisateur veut un choix précis d'hôtels et de vols,
+    des taxis aéroport ↔ hôtel (bagages) et une voiture à Gran Canaria.
+    Choix de Claude : Pullman Paris Tour Eiffel ; Hotel Artemide (Rome) ;
+    Hotel Spadai (Florence) ; Hilton Lake Como ; Room Mate Giulia (Milan).
+    Vols : Air France Nouakchott → Paris-CDG (ou Royal Air Maroc via
+    Casablanca) ; Air France CDG → Rome-Fiumicino ; easyJet ou Neos
+    Milan-Malpensa → Gran Canaria (ou Ryanair depuis Bergame) ; Binter
+    Gran Canaria → Nouakchott. Voiture : Cicar à l'aéroport de Gran Canaria
+    (tous risques sans franchise). Taxis à forfait : CDG ↔ Paris rive gauche
+    65 €, Fiumicino → centre de Rome ≈ 55 €, Milan → Malpensa ≈ 114 €.
+    Budget estimé : environ 4 600 à 7 100 € pour deux, hors repas et visites.
+    Claude ne peut ni réserver ni voir les prix en direct : l'utilisateur
+    réserve lui-même.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
