@@ -92,6 +92,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Parkhotel Laurin (Bolzano), Hotel Antiche Figure (Venise, en face de la
     gare), Hilton Lake Como, Room Mate Giulia (Milan).
     Budget estimé : ≈ 4 700 à 7 500 € pour deux, hors repas.
+  - L'utilisateur a demandé comment se déplacer entre les villes italiennes.
+    Claude a conseillé le train (Frecciarossa et Italo, réservés sur
+    trenitalia.com et italo.it), le taxi entre la gare et l'hôtel, et de ne
+    pas louer de voiture en Italie (zones ZTL et amendes).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
