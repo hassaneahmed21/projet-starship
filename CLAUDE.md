@@ -96,6 +96,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Claude a conseillé le train (Frecciarossa et Italo, réservés sur
     trenitalia.com et italo.it), le taxi entre la gare et l'hôtel, et de ne
     pas louer de voiture en Italie (zones ZTL et amendes).
+  - L'utilisateur a demandé quelles villes seraient trop froides ou peu
+    intéressantes en hiver. Réponse de Claude : les Dolomites sont les plus
+    froides (−8 à +2 °C en altitude), mais avec de la neige et le ski ouvert ;
+    le lac de Côme est la moins intéressante en hiver (villas fermées, moins
+    de bateaux, brouillard), d'où la suggestion d'en faire une excursion
+    d'une journée depuis Milan. Venise : froid humide, risque d'acqua alta.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
