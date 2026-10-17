@@ -35,3 +35,20 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
   proposé de tenir un fichier de suivi.
 - L'utilisateur a choisi de le placer dans `projet-starship` → création de ce
   `CLAUDE.md` sur la branche `claude/memoriser-historique-conversation-uw01bp`.
+- **Projet personnel : voyage de noces.**
+  - Mariage le samedi 21 novembre 2026 à Nouakchott (Mauritanie).
+  - L'épouse a un visa délivré par la France ; question : doit-elle entrer ou
+    sortir par un aéroport français ?
+  - Envies : Italie (lac de Côme, etc.), 15 à 20 jours, départ le 21 ou le 22,
+    trajet le moins fatigant possible, avec un budget raisonnable.
+  - L'utilisateur a un appartement gratuit à Gran Canaria (escale possible).
+  - Programme proposé par Claude (17 nuits, du 22 nov. au 9 déc.) :
+    Nouakchott → Paris (4 nuits) → Nice (3) → Côme (3) → Milan (2) →
+    Gran Canaria (5, appartement) → Nouakchott (Binter, vol direct).
+    Logique visa : entrer dans Schengen par la France et passer en France
+    plus de nuits que dans tout autre pays (7), pour que la France reste la
+    destination principale. Le code des visas n'impose pas de « première
+    entrée » par le pays émetteur, mais c'est l'option la plus sûre.
+  - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
+    ou long séjour / titre de séjour), dates de validité, nationalité et
+    documents de l'utilisateur.
