@@ -49,6 +49,13 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     plus de nuits que dans tout autre pays (7), pour que la France reste la
     destination principale. Le code des visas n'impose pas de « première
     entrée » par le pays émetteur, mais c'est l'option la plus sûre.
+  - **Mise à jour :** l'utilisateur veut passer plus de nuits en Italie, entrer
+    par Paris, aller facilement à Milan et rentrer par Gran Canaria.
+    Nouveau programme (17 nuits, du 22 nov. au 9 déc.) : Paris (2 nuits) →
+    avion vers Milan-Linate puis train vers Côme (4) → Venise (3) → Milan (3) →
+    vol direct Milan → Gran Canaria (5) → Binter vers Nouakchott.
+    Claude a prévenu du risque lié au visa si c'est un visa court séjour
+    français et que l'Italie devient la destination principale.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
