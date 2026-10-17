@@ -56,6 +56,13 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     vol direct Milan → Gran Canaria (5) → Binter vers Nouakchott.
     Claude a prévenu du risque lié au visa si c'est un visa court séjour
     français et que l'Italie devient la destination principale.
+  - **Mise à jour 2 :** l'utilisateur ne veut plus parler du visa. Il ne veut
+    pas aller à Venise mais plutôt à Rome. Il demande le détail jour par jour
+    avec les prix. Programme retenu (17 nuits) : 22 nov. Nouakchott → Paris
+    (2 nuits) → 24 nov. avion vers Rome (4) → 28 nov. train vers Florence (2) →
+    30 nov. Côme (3) → 3 déc. Milan (2) → 5 déc. vol direct vers Gran Canaria
+    (4) → 9 déc. Binter vers Nouakchott. Budget estimé : 4 000 à 6 000 € pour
+    deux.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
