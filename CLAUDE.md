@@ -76,6 +76,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Budget estimé : environ 4 600 à 7 100 € pour deux, hors repas et visites.
     Claude ne peut ni réserver ni voir les prix en direct : l'utilisateur
     réserve lui-même.
+  - **Mise à jour 4 :** nouvelle répartition demandée par l'utilisateur :
+    Paris 2 nuits, Rome 3, Milan 4, Florence + Côme 4. Ordre logique proposé :
+    22–24 nov. Paris → 24–27 Rome → 27–29 Florence → 29 nov.–1er déc. Côme →
+    1er–5 déc. Milan → 5–9 déc. Gran Canaria. Claude a rédigé un petit
+    message romantique pour présenter le programme à sa future épouse.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
