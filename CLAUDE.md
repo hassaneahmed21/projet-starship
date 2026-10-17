@@ -81,6 +81,17 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     22–24 nov. Paris → 24–27 Rome → 27–29 Florence → 29 nov.–1er déc. Côme →
     1er–5 déc. Milan → 5–9 déc. Gran Canaria. Claude a rédigé un petit
     message romantique pour présenter le programme à sa future épouse.
+  - **Mise à jour 5 :** la future épouse veut voir Rome, Venise, la Toscane,
+    les Dolomites, le lac de Côme et Milan. Claude a réduit Rome, Milan et
+    Gran Canaria. Programme (16 nuits, du 22 nov. au 8 déc.) : Paris 2 (22–24)
+    → avion vers Rome 2 (24–26) → Florence et Toscane 2 (26–28) →
+    Dolomites, base Bolzano 2 (28–30, la saison de ski ouvre le 28 nov. 2026)
+    → Venise 2 (30 nov.–2 déc.) → Côme 2 (2–4) → Milan 1 (4–5) →
+    Gran Canaria 3 (5–8) → Nouakchott le 8 déc.
+    Hôtels : Pullman Paris Tour Eiffel, Artemide (Rome), Spadai (Florence),
+    Parkhotel Laurin (Bolzano), Hotel Antiche Figure (Venise, en face de la
+    gare), Hilton Lake Como, Room Mate Giulia (Milan).
+    Budget estimé : ≈ 4 700 à 7 500 € pour deux, hors repas.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
