@@ -102,6 +102,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     le lac de Côme est la moins intéressante en hiver (villas fermées, moins
     de bateaux, brouillard), d'où la suggestion d'en faire une excursion
     d'une journée depuis Milan. Venise : froid humide, risque d'acqua alta.
+  - **2026-10-18 – Garde-robe :** l'utilisateur, de carrure sportive, veut
+    acheter des vêtements faciles à associer pour le voyage (Nouakchott
+    chaud → Paris et Italie froids → Gran Canaria doux), pyjamas compris,
+    avec 1 000 € de budget. Claude a proposé une garde-robe capsule
+    (marine, camel, gris, blanc, noir) chez Uniqlo, Zara, Massimo Dutti et
+    Decathlon pour ≈ 990 €.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
