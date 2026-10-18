@@ -10,6 +10,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
 - Veut que Claude garde en mémoire l'historique des conversations et s'en
   souvienne à chaque session (via ce fichier).
 
+- Style vestimentaire : « old money ». Il DÉTESTE les coupes slim et
+  préfère les coupes regular, droites, larges ou à pinces, dans des
+  couleurs crème, camel, marine, gris et marron (cachemire, maille,
+  mocassins).
+
 ## Contexte du projet
 
 - Jeu JavaScript « StarShip » : un vaisseau tire sur des soucoupes volantes.
@@ -111,6 +116,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
   - L'utilisateur a demandé les liens d'achat. Claude a donné les liens
     Uniqlo, Zara, Decathlon (doudoune MT500), adidas (Stan Smith) et Levi's
     (512, en option), pour ≈ 980 € au total.
+  - Liste de vêtements refaite en style old money, sans aucune coupe slim
+    (≈ 1 000 €) : manteau Zara relaxed en laine, doudoune Uniqlo col montant,
+    pull col rond en cachemire Uniqlo, col roulé en mérinos, polo en maille
+    Massimo Dutti, chemises oxford Uniqlo coupe regular, pantalons larges
+    plissés Uniqlo, mocassins en daim Massimo Dutti, bottines Chelsea Zara.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
