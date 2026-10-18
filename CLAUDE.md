@@ -108,6 +108,9 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     avec 1 000 € de budget. Claude a proposé une garde-robe capsule
     (marine, camel, gris, blanc, noir) chez Uniqlo, Zara, Massimo Dutti et
     Decathlon pour ≈ 990 €.
+  - L'utilisateur a demandé les liens d'achat. Claude a donné les liens
+    Uniqlo, Zara, Decathlon (doudoune MT500), adidas (Stan Smith) et Levi's
+    (512, en option), pour ≈ 980 € au total.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
