@@ -121,6 +121,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     pull col rond en cachemire Uniqlo, col roulé en mérinos, polo en maille
     Massimo Dutti, chemises oxford Uniqlo coupe regular, pantalons larges
     plissés Uniqlo, mocassins en daim Massimo Dutti, bottines Chelsea Zara.
+  - **2026-11-02 :** l'utilisateur a demandé comment transporter une télé
+    65 pouces de Lille à Paris. Conseils de Claude : fourgonnette 3 m³ en
+    aller simple, ou transport collaboratif (Cocolis). Le TGV est exclu
+    (bagages limités à 130 x 90 cm). Toujours transporter l'écran debout,
+    jamais à plat.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
