@@ -126,6 +126,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     aller simple, ou transport collaboratif (Cocolis). Le TGV est exclu
     (bagages limités à 130 x 90 cm). Toujours transporter l'écran debout,
     jamais à plat.
+  - L'utilisateur a une Golf 7 (2019) : avec les sièges arrière rabattus,
+    150 cm de long, 130 cm de large, 75 cm de haut. Le carton télescopique
+    pour écran (100 x 15 x 90-160 cm, jusqu'à 65 pouces) n'y tient pas
+    debout (il faut ≥ 100 cm de hauteur), seulement à plat, ce que Claude
+    déconseille. Recommandation maintenue : fourgonnette ou Cocolis.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
