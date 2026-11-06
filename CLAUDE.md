@@ -131,6 +131,13 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     pour écran (100 x 15 x 90-160 cm, jusqu'à 65 pouces) n'y tient pas
     debout (il faut ≥ 100 cm de hauteur), seulement à plat, ce que Claude
     déconseille. Recommandation maintenue : fourgonnette ou Cocolis.
+  - **2026-11-06 :** l'utilisateur est à Paris et cherche un polo en maille
+    texturée marron chocolat (look smart casual : polo chocolat, pantalon
+    beige à pinces, ceinture et mocassins marron, montre dorée). Pistes
+    données par Claude : Mango (polo maille coton texturé, polos en maille),
+    Zara (polo en maille texturée, manches longues), Massimo Dutti (polos
+    en maille), COS, C&A. Point soulevé : en novembre, les manches longues
+    sont plus faciles à trouver et mieux adaptées au voyage.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
