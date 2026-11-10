@@ -144,6 +144,9 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     El Corte Inglés), Levi's Factory à Jinámar, El Mirador, Alisios,
     El Muelle et 7 Palmas à Las Palmas. Rappel : la TVA canarienne (IGIC)
     est de 7 % au lieu de 21 % en Espagne continentale.
+  - L'utilisateur a demandé si Puerto de Mogán valait le coup : c'est très
+    beau pour se promener (la « petite Venise »), mais ce n'est pas un endroit
+    pour faire du shopping. Marché le vendredi matin (souvenirs, contrefaçons).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
