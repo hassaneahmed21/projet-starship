@@ -147,6 +147,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
   - L'utilisateur a demandé si Puerto de Mogán valait le coup : c'est très
     beau pour se promener (la « petite Venise »), mais ce n'est pas un endroit
     pour faire du shopping. Marché le vendredi matin (souvenirs, contrefaçons).
+  - Précision : le 10 nov. 2026, l'utilisateur est seul à Gran Canaria et
+    prépare ses tenues de lune de miel. Claude a conseillé, pour le jour même
+    (un mardi, donc sans marché), Las Terrazas et El Muelle, ou Mogán Mall à
+    Puerto Rico (avec une boutique Lacoste) s'il est dans le sud.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
