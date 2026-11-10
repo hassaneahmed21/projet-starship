@@ -138,6 +138,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Zara (polo en maille texturée, manches longues), Massimo Dutti (polos
     en maille), COS, C&A. Point soulevé : en novembre, les manches longues
     sont plus faciles à trouver et mieux adaptées au voyage.
+  - **2026-11-10 :** l'utilisateur est à Gran Canaria et cherche des outlets
+    et centres commerciaux pour faire de bonnes affaires. Pistes de Claude :
+    Las Terrazas Outlet à Telde (Nike Factory, Levi's, Mango, Lacoste, outlet
+    El Corte Inglés), Levi's Factory à Jinámar, El Mirador, Alisios,
+    El Muelle et 7 Palmas à Las Palmas. Rappel : la TVA canarienne (IGIC)
+    est de 7 % au lieu de 21 % en Espagne continentale.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
