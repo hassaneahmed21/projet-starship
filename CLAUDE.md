@@ -151,6 +151,14 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     prépare ses tenues de lune de miel. Claude a conseillé, pour le jour même
     (un mardi, donc sans marché), Las Terrazas et El Muelle, ou Mogán Mall à
     Puerto Rico (avec une boutique Lacoste) s'il est dans le sud.
+  - **2026-11-13 :** l'utilisateur est à Las Palmas et prépare une trousse
+    d'hygiène personnelle et intime pour la lune de miel, budget non limité
+    (il a déjà dentifrice et brosse à dents). Claude a proposé une liste
+    premium : tondeuse Philips OneBlade ou Bodygroom, gel intime homme en
+    pharmacie, lingettes, déodorant, parfums (Acqua di Parma Colonia,
+    Tom Ford Oud Wood, Dior Sauvage), fil dentaire, bain de bouche, soins
+    visage, mains et lèvres, coupe-ongles, trousse en cuir. Où acheter :
+    El Corte Inglés (Mesa y López), pharmacies, parfumeries.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
