@@ -165,6 +165,13 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     et bien coiffés. Magasins disponibles : Rituals, Primor, Yves Rocher et
     pharmacies. Claude a proposé des produits magasin par magasin et une
     routine.
+  - L'utilisateur ne parle pas espagnol : Claude a créé une page « Panier
+    soins Las Palmas » (https://claude.ai/artifact/U6cSPongF1nYoYf5eHkFkY)
+    avec photos et phrases en espagnol à montrer aux vendeurs. Rituals :
+    gel douche Samurai, crème corps Karma. Primor : sérum Vichy Minéral 89,
+    crème Vichy Minéral 89 72H légère, La Roche-Posay Lipikar Syndet AP+
+    (zones intimes), Cicaplast Baume B5+, huile Moroccanoil, American Crew
+    Grooming Cream. Total ≈ 135 à 190 €.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
