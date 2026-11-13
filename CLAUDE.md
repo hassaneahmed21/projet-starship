@@ -159,6 +159,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Tom Ford Oud Wood, Dior Sauvage), fil dentaire, bain de bouche, soins
     visage, mains et lèvres, coupe-ongles, trousse en cuir. Où acheter :
     El Corte Inglés (Mesa y López), pharmacies, parfumeries.
+  - L'utilisateur a déjà un parfum. Il veut seulement : un gel douche, une
+    crème ou un sérum visage, une crème corps hydratante qui sent bon, un
+    produit pour les zones intimes et une huile pour des cheveux brillants
+    et bien coiffés. Magasins disponibles : Rituals, Primor, Yves Rocher et
+    pharmacies. Claude a proposé des produits magasin par magasin et une
+    routine.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
