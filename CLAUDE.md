@@ -181,6 +181,8 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     l'aéroport. Claude l'a prévenu que l'agence Cicar de l'aéroport fermerait
     peut-être avant (horaires non confirmés, 20 h 30 ou 23 h selon les
     sources) et lui a conseillé d'appeler Cicar avant de partir.
+  - Confirmé : l'agence Cicar de l'aéroport sera fermée, l'utilisateur
+    laissera les clés dans la boîte à clés.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
