@@ -172,6 +172,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     crème Vichy Minéral 89 72H légère, La Roche-Posay Lipikar Syndet AP+
     (zones intimes), Cicaplast Baume B5+, huile Moroccanoil, American Crew
     Grooming Cream. Total ≈ 135 à 190 €.
+  - **2026-11-14 :** l'utilisateur rentre à Nouakchott avec le vol Binter
+    NT1804 Las Palmas → Nouakchott du dim. 15 nov. à 00:20 (donc la nuit du
+    samedi 14 au dimanche 15). Conseils de Claude : arriver vers 22 h,
+    comptoirs Binter au 1er étage, zone A, comptoirs 1 à 6, enregistrement
+    fermé ≈ 45 min avant le départ, embarquement ≈ 23 h 30.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
