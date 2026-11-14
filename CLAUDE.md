@@ -177,6 +177,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     samedi 14 au dimanche 15). Conseils de Claude : arriver vers 22 h,
     comptoirs Binter au 1er étage, zone A, comptoirs 1 à 6, enregistrement
     fermé ≈ 45 min avant le départ, embarquement ≈ 23 h 30.
+  - L'utilisateur part à 21 h 30 avec la voiture Cicar à rendre à
+    l'aéroport. Claude l'a prévenu que l'agence Cicar de l'aéroport fermerait
+    peut-être avant (horaires non confirmés, 20 h 30 ou 23 h selon les
+    sources) et lui a conseillé d'appeler Cicar avant de partir.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
