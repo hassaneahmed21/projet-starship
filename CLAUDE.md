@@ -183,6 +183,9 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     sources) et lui a conseillé d'appeler Cicar avant de partir.
   - Confirmé : l'agence Cicar de l'aéroport sera fermée, l'utilisateur
     laissera les clés dans la boîte à clés.
+  - Question posée en arabe : à quelle heure ferme la station-service de
+    l'aéroport de Gran Canaria ? D'après le site de Repsol, la station
+    « Aeropuerto GC » (Telde) est ouverte 24 h/24. Claude a répondu en arabe.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
