@@ -211,6 +211,9 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     près des Champs : Le Butcher (rue de Berri, smash burgers annoncés
     100 % halal), The Kitchen (44 rue de Ponthieu, burgers et grillades,
     ouvert de midi à minuit), Élysées Istanbul (rue de Berri, grill turc).
+  - Ils ont finalement pris la ligne 1 du métro depuis la gare de Lyon.
+    Claude a conseillé de descendre à George V (11 arrêts, ≈ 20 min), au plus
+    près de la rue de Berri, de la rue de Ponthieu et de Ladurée.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
