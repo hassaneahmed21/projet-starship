@@ -192,6 +192,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     total. Claude recommande le train : bagages inclus, départ à pied,
     arrivée en centre-ville. L'avion reviendrait à ≈ 215 – 480 € avec les
     bagages et les taxis (Orly 45 € de forfait), pour 2 h de moins.
+  - Le même jour (dimanche), près de la gare de Lyon : l'utilisateur cherche un
+    brunch halal, puis du shopping (chaussettes, et un châle pour madame,
+    mot écrit « chake »). Pistes de Claude : Marvely (rue Crozatier, sans
+    réservation), Baja (allée Vivaldi), The Madison Coffee. Shopping ouvert le
+    dimanche : Bercy Village (métro 14) ou Galeries Lafayette / Uniqlo Opéra
+    (RER A jusqu'à Auber).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
