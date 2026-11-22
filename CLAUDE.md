@@ -186,6 +186,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
   - Question posée en arabe : à quelle heure ferme la station-service de
     l'aéroport de Gran Canaria ? D'après le site de Repsol, la station
     « Aeropuerto GC » (Telde) est ouverte 24 h/24. Claude a répondu en arabe.
+  - **2026-11-22 :** le couple est à Paris, près de la gare de Lyon. Il
+    compare l'avion et le train pour aller à Milan, à 2 personnes, avec
+    2 valises en soute pour madame. Il a trouvé le train direct à 198 € au
+    total. Claude recommande le train : bagages inclus, départ à pied,
+    arrivée en centre-ville. L'avion reviendrait à ≈ 215 – 480 € avec les
+    bagages et les taxis (Orly 45 € de forfait), pour 2 h de moins.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
