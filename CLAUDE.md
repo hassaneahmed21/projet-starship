@@ -198,6 +198,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     réservation), Baja (allée Vivaldi), The Madison Coffee. Shopping ouvert le
     dimanche : Bercy Village (métro 14) ou Galeries Lafayette / Uniqlo Opéra
     (RER A jusqu'à Auber).
+  - L'utilisateur veut éviter le métro et propose les Champs-Élysées ou
+    Montmartre. Programme proposé, avec des taxis ou VTC : brunch près de la
+    gare de Lyon → Champs-Élysées (boutiques ouvertes le dimanche, châle et
+    chaussettes) → Montmartre et le Sacré-Cœur au coucher du soleil → retour
+    en taxi.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
