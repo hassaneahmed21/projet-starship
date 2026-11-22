@@ -203,6 +203,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     gare de Lyon → Champs-Élysées (boutiques ouvertes le dimanche, châle et
     chaussettes) → Montmartre et le Sacré-Cœur au coucher du soleil → retour
     en taxi.
+  - Le couple va sur les Champs-Élysées et demande un café. Claude conseille
+    Ladurée (75 av. des Champs-Élysées, boutique rénovée), puis le Fouquet's
+    (iconique mais cher et bruyant) et le Café Lacoste (ouvert en 2026 dans
+    le 8e, style old money).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
