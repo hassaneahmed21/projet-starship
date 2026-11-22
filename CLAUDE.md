@@ -207,6 +207,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Ladurée (75 av. des Champs-Élysées, boutique rénovée), puis le Fouquet's
     (iconique mais cher et bruyant) et le Café Lacoste (ouvert en 2026 dans
     le 8e, style old money).
+  - Il veut du salé avec de la viande halal, pas seulement du sucré. Pistes
+    près des Champs : Le Butcher (rue de Berri, smash burgers annoncés
+    100 % halal), The Kitchen (44 rue de Ponthieu, burgers et grillades,
+    ouvert de midi à minuit), Élysées Istanbul (rue de Berri, grill turc).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
