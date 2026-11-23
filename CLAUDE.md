@@ -214,6 +214,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
   - Ils ont finalement pris la ligne 1 du métro depuis la gare de Lyon.
     Claude a conseillé de descendre à George V (11 arrêts, ≈ 20 min), au plus
     près de la rue de Berri, de la rue de Ponthieu et de Ladurée.
+  - **2026-11-23 :** l'utilisateur cherche des salles de musculation « old
+    school » avec beaucoup de machines (à Paris, supposé). Pistes : L'Usine
+    (espace La Forge, Opéra / Beaubourg / Saint-Lazare), Le Klay, Fitness
+    Park, Neoness. Jungle Gym (Panatta, Hammer, Hoist) : ville non confirmée.
+    Claude a proposé de chercher aussi à Milan.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
