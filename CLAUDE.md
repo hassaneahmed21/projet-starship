@@ -234,6 +234,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     4,2/5 sur 96 avis), Spice Village (pakistanais, viande certifiée halal,
     via Padova), Tandoori Kebab Halal (près de la gare centrale, 4,9/5 sur
     8 avis seulement).
+  - Planning demandé : 1 journée de visite de Milan (Duomo et terrasses,
+    galerie Vittorio Emanuele, la Scala, Brera, château des Sforza, Navigli,
+    dîner halal via Padova), puis le lendemain le lac de Côme en train depuis
+    Milano Centrale. Option A : Côme ville + funiculaire de Brunate. Option
+    B : train jusqu'à Varenna + ferry jusqu'à Bellagio. Bateaux moins
+    nombreux en hiver.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
