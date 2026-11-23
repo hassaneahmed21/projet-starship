@@ -223,6 +223,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     musculation : Palestre Open Club (salle old school orientée bodybuilding,
     pass journée), Gold's Gym Milano (Monterosa et Palmanova, entrée à la
     journée 30 €), 20 Hours Club, Anytime Fitness.
+  - Il cherche des salles qui collectionnent les machines Atlantis et
+    Bodymaster à Milan. Aucune salle confirmée en ligne. Pistes à vérifier :
+    Palestra Body Building Club (via Padova, « marques old school » selon un
+    avis), Palestra New Life, Palestre Open Club. Conseils : regarder les
+    photos sur Google Maps, chercher sur Instagram, appeler les salles.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
