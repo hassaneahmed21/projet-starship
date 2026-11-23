@@ -248,9 +248,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     annulation gratuite jusqu'à 24 h avant). Prix non visible sur la page.
     Avis de Claude : bon choix si le prix reste raisonnable, mais journée
     longue et en anglais.
-  - Retour de l'excursion : le car du tour ramène les participants à Milan,
-    au même endroit que le départ (près de l'hôtel Gallia et de la gare
-    centrale), puis ≈ 10 min à pied jusqu'au Viale Lunigiana.
+  - Retour de l'excursion : la page indique seulement « point d'arrivée :
+    Milan 20124 », le même code postal que le départ. Le retour en car n'est
+    pas écrit noir sur blanc, donc Claude a conseillé de le faire confirmer
+    par l'organisateur avant de réserver. Repas : déjeuner libre à
+    Bellagio, à leurs frais, rien n'est servi sur le bateau. Seule la
+    dégustation de chocolat à Lugano est prévue.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
