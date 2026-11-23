@@ -240,6 +240,14 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Milano Centrale. Option A : Côme ville + funiculaire de Brunate. Option
     B : train jusqu'à Varenna + ferry jusqu'à Bellagio. Bateaux moins
     nombreux en hiver.
+  - Excursion Booking.com envoyée par l'utilisateur : « Como, Lugano &
+    Bellagio, Exclusive Cruise » (11 h, note 9,2/10 sur 580 avis, départ
+    près de l'hôtel Gallia à côté de Milano Centrale, croisière privée d'1 h
+    Tremezzo → Bellagio, guide en anglais, espagnol ou portugais, pas de
+    français, déjeuner non inclus, passeport obligatoire pour la Suisse,
+    annulation gratuite jusqu'à 24 h avant). Prix non visible sur la page.
+    Avis de Claude : bon choix si le prix reste raisonnable, mais journée
+    longue et en anglais.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
