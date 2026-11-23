@@ -228,6 +228,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Palestra Body Building Club (via Padova, « marques old school » selon un
     avis), Palestra New Life, Palestre Open Club. Conseils : regarder les
     photos sur Google Maps, chercher sur Instagram, appeler les salles.
+  - Adresse du couple à Milan : Viale Lunigiana 8, 20125 Milano (au nord de
+    la gare centrale, près du quartier NoLo et de la via Padova).
+    Restaurants halal proposés : Ristorante Goha (égyptien, via Padova 58,
+    4,2/5 sur 96 avis), Spice Village (pakistanais, viande certifiée halal,
+    via Padova), Tandoori Kebab Halal (près de la gare centrale, 4,9/5 sur
+    8 avis seulement).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
