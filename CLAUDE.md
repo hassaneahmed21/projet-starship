@@ -254,6 +254,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     par l'organisateur avant de réserver. Repas : déjeuner libre à
     Bellagio, à leurs frais, rien n'est servi sur le bateau. Seule la
     dégustation de chocolat à Lugano est prévue.
+  - L'excursion coûte 65 € par personne : l'utilisateur préfère aller à Côme
+    en train, en autonomie, pour dépenser moins. Claude a donné le programme
+    détaillé : train Milano Centrale → Como San Giovanni, vieille ville,
+    funiculaire de Brunate, promenade et villa Olmo, retour en train.
+    Budget ≈ 70 à 110 € pour deux.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
