@@ -263,6 +263,13 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     4,8/5 sur 357 avis, le plus proche), Duomo Kebap Halal Grill Pizza
     (via Baracchini 7, ≈ 4,3/5 sur ≈ 1 100 avis, repas assis), Palastine
     Halal Food (via Paolo da Cannobio 8).
+  - Adresses recommandées par un ami à Milan : Locanda (Al) Cuoco di Bordo
+    (poissons et fruits de mer, via Cristoforo Gluck 11, 20125, à quelques
+    minutes du Viale Lunigiana, réservation conseillée, fermé lundi et
+    mardi selon une source ancienne), Luini (panzerotti, via Santa Radegonda
+    16 près du Duomo, ≈ 10 h 30 – 20 h, fermé le dimanche), Umberto 1934
+    (glacier célèbre pour son affogato, piazza Cinque Giornate 4,
+    12 h – 23 h tous les jours).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
