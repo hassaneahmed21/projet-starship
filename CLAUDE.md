@@ -259,6 +259,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     détaillé : train Milano Centrale → Como San Giovanni, vieille ville,
     funiculaire de Brunate, promenade et villa Olmo, retour en train.
     Budget ≈ 70 à 110 € pour deux.
+  - Dîner halal près du Duomo de Milan : ILK Kebap (via Orefici 24,
+    4,8/5 sur 357 avis, le plus proche), Duomo Kebap Halal Grill Pizza
+    (via Baracchini 7, ≈ 4,3/5 sur ≈ 1 100 avis, repas assis), Palastine
+    Halal Food (via Paolo da Cannobio 8).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
