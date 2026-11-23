@@ -219,6 +219,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     (espace La Forge, Opéra / Beaubourg / Saint-Lazare), Le Klay, Fitness
     Park, Neoness. Jungle Gym (Panatta, Hammer, Hoist) : ville non confirmée.
     Claude a proposé de chercher aussi à Milan.
+  - Précision : l'utilisateur est en fait à Milan. Pistes de salles de
+    musculation : Palestre Open Club (salle old school orientée bodybuilding,
+    pass journée), Gold's Gym Milano (Monterosa et Palmanova, entrée à la
+    journée 30 €), 20 Hours Club, Anytime Fitness.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
