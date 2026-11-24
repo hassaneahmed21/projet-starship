@@ -287,6 +287,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     de luxe, style old money) → Brera, corso Garibaldi, corso Como → piazza
     Gae Aulenti (gratte-ciel illuminés, Bosco Verticale) → retour en tram 10
     depuis Garibaldi jusqu'au Viale Lunigiana.
+  - Journée à Côme le lendemain (≈ mer. 25 nov.) : train vers 9 h depuis
+    Milano Centrale → arrivée ≈ 10 h. Ordre conseillé : vieille ville et
+    cathédrale d'abord (le brouillard du matin se lève) → funiculaire de
+    Brunate vers 11 h 30 – 12 h → déjeuner au bord du lac → villa Olmo →
+    coucher du soleil ≈ 16 h 45 → train retour ≈ 17 h 30 → dîner au Cuoco
+    di Bordo (ouvert le mercredi, à confirmer).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
