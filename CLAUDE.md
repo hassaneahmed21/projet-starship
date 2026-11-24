@@ -270,6 +270,14 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     16 près du Duomo, ≈ 10 h 30 – 20 h, fermé le dimanche), Umberto 1934
     (glacier célèbre pour son affogato, piazza Cinque Giornate 4,
     12 h – 23 h tous les jours).
+  - **2026-11-24 (mardi), 1er jour officiel à Milan :** l'utilisateur veut
+    prendre le tram pour voir la ville. Le tram 10 part du Viale Lunigiana
+    (terminus devant chez eux) et passe par Garibaldi, le Monumentale, corso
+    Sempione et l'Arco della Pace, Porta Genova, jusqu'à piazza XXIV Maggio
+    (Darsena / Navigli). Journée proposée : tram 10 → Arco della Pace, parc
+    Sempione, château des Sforza → Duomo, galerie, Luini → Navigli au coucher
+    du soleil → retour direct en tram 10. Cuoco di Bordo peut-être fermé
+    le mardi.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
