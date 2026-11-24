@@ -278,6 +278,10 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Sempione, château des Sforza → Duomo, galerie, Luini → Navigli au coucher
     du soleil → retour direct en tram 10. Cuoco di Bordo peut-être fermé
     le mardi.
+  - Fin de journée le 24 nov. : le couple a fini au Duomo pour dîner. Claude
+    a rappelé les adresses halal du Duomo (Duomo Kebap Grill, ILK Kebap,
+    Palastine) et le retour : métro M3 Duomo → Centrale + 10 min à pied, ou
+    taxi.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
