@@ -301,6 +301,13 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     montant total. Points d'alerte : Hotels.com indique une fermeture du
     30 oct. au 28 fév., donc à confirmer avec l'hôtel ; pas de parking.
     Note de Claude : 7,5/10, bon rapport qualité-prix.
+  - Il cherche plutôt un hôtel avec une vue extraordinaire à Côme. Pistes :
+    à Brunate, sur la colline (vue panoramique, funiculaire de 7 min) :
+    Nuvole Garden Hotel (8,8/10), Hotel Paradiso Como, Bellavista Boutique
+    Hotel, Hotel Vista Lago (Brunate). Au bord du lac, en ville : Hilton
+    Lake Como (rooftop, chambres vue lac), Metropole Suisse (piazza Cavour,
+    vue sur le port et les Alpes). Conseils : réserver une chambre « vue
+    lac », vérifier l'ouverture en hiver, préférer l'annulation gratuite.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
