@@ -293,6 +293,14 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Brunate vers 11 h 30 – 12 h → déjeuner au bord du lac → villa Olmo →
     coucher du soleil ≈ 16 h 45 → train retour ≈ 17 h 30 → dîner au Cuoco
     di Bordo (ouvert le mercredi, à confirmer).
+  - Hôtel envisagé à Côme du 26 au 28 nov. : Hotel Borgovico (via Borgo Vico
+    91, 3 étoiles, 8,6/10 sur 408 avis Traveloka, à 6 min à pied de Como San
+    Giovanni et 12 min de la piazza Cavour, près de la villa Olmo). Chambre
+    double de 20 m², 191 € pour 2 nuits avec la réduction Genius, paiement
+    sur place, petit-déjeuner non compris, mais l'annulation coûte le
+    montant total. Points d'alerte : Hotels.com indique une fermeture du
+    30 oct. au 28 fév., donc à confirmer avec l'hôtel ; pas de parking.
+    Note de Claude : 7,5/10, bon rapport qualité-prix.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
