@@ -282,6 +282,11 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     a rappelé les adresses halal du Duomo (Duomo Kebap Grill, ILK Kebap,
     Palastine) et le retour : métro M3 Duomo → Centrale + 10 min à pied, ou
     taxi.
+  - Balade du soir proposée après le Duomo : galerie Vittorio Emanuele
+    illuminée → la Scala → via Montenapoleone et via della Spiga (vitrines
+    de luxe, style old money) → Brera, corso Garibaldi, corso Como → piazza
+    Gae Aulenti (gratte-ciel illuminés, Bosco Verticale) → retour en tram 10
+    depuis Garibaldi jusqu'au Viale Lunigiana.
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
