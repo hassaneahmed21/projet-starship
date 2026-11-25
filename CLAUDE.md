@@ -308,6 +308,12 @@ Il sert de mémoire persistante : **à lire en début de session et à mettre à
     Lake Como (rooftop, chambres vue lac), Metropole Suisse (piazza Cavour,
     vue sur le port et les Alpes). Conseils : réserver une chambre « vue
     lac », vérifier l'ouverture en hiver, préférer l'annulation gratuite.
+  - **2026-11-25 :** à 14 h, madame veut aller au parc Sempione. Où manger
+    autour : Cascina Nascosta (au milieu du parc), Dazi Milano (piazza
+    Sempione), BhangraBar et Deseo (corso Sempione), Bar Bianco et le café
+    de la Triennale (dans le parc). Rappel : en Italie, le service du midi
+    s'arrête souvent vers 14 h 30 – 15 h. Dîner : via Paolo Sarpi (quartier
+    chinois, à 10 min), ou retour vers chez eux (Goha, Cuoco di Bordo).
   - À confirmer avec l'utilisateur : type de visa de l'épouse (court séjour C
     ou long séjour / titre de séjour), dates de validité, nationalité et
     documents de l'utilisateur.
